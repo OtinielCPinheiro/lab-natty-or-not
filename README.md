@@ -20,23 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic ;):
+
+Podcast: Aventuras na Estrada com Pets - Dicas para Nômades Digitais 🎙️🐾
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Se você ama viajar e não consegue deixar seu pet para trás, este podcast é para você! Em "Aventuras na Estrada com Pets", exploramos como os nômades digitais podem transformar viagens longas em experiências confortáveis, seguras e divertidas, tanto para humanos quanto para seus companheiros de quatro patas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- Google Drive **[GoogleDrive] (https://drive.google.com/)** para hospedagem e compartilhamento do arquivo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após a definição do tema, escolhi as ferramentas para desenvolver o roteiro (ChatGPT) e gerar os resultados (Elevenlabs).
+O arquivo gerado foi salvo em um repositório do GoogleDrive e comprtilhado no link disponível em 'resultados'.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um podcast que ensina nômades digitais a planejar viagens longas com pets, equilibrando conforto, segurança e diversão para ambos.
+
+https://drive.google.com/file/d/1drV8fxmCC4Wp1iFpWjTiufByID1Ln6yF/view?usp=sharing
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É surpreendente o grau de evolução dos processos de criação de conteúdos com IA generativa, acredito que essas ferramentas são essenciais para agilizar a produção de conteúdo na mesma velocidade que as redes sociais nos demandam. As ferramentas de IA nos auxiliam dando suporte em todas as etapas de criação, automatizando os processos com grande naturalidade e eficiência. 
 
 ### Exemplos e Insigths
 
